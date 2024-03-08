@@ -1,8 +1,9 @@
 # CDW_Machine_Task_Surendran
 
 Project Setup:
-npm i
-npm start
+1. npm i
+2. npm start
+
 
 Project Details:
 In this project, I completed the following tasks
