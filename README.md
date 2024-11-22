@@ -1,4 +1,4 @@
-# CDW_Machine_Task_Surendran
+# Task Managment - React JS
 
 **Project Setup:**
 1. npm i
